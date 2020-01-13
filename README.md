@@ -24,10 +24,10 @@ Run the command:
     source bin/activate
 
 Ensure all dependencies are properly installed which can be found in
-the <h4>requirements.txt</h4> file. This is included with the README.md
-located at the top Quicksite direcotry. The command to install the correct packages:
+the requirements.txt file. This is included with the README.md located at 
+the top Quicksite directory. The command to install the correct packages:
 
-   pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Once the virtualenv is successfully activated, you need to run the 
 server which can be found in the directory:
