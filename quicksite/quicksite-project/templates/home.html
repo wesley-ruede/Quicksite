@@ -6,11 +6,9 @@
 
 	</head>
 	<body>
-		<h1>Enter a web address</h1>
-		<p>a bit if info about us</p>
+		<h1>{{ hello }}</h1>
 
-		{{ hello }}
-
+		<h2>Enter a web address</h2>
 		<form action="{% url 'count' %}">
 			<textarea cols="40" rows="5" name="fulltext"></textarea>
 			<br />

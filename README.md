@@ -1,10 +1,10 @@
-Django 2.1.3 Word Website Word Counting App
+Django 3.0.2 Website Word Counting App
 
 Contributors:
 
-Ujjwal
+Ujjwal Partap Singh
 Elias Logan
-WesPy
+Wesley Ruede
 
 
 To install this application you will require the Python programming 
