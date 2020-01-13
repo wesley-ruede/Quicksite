@@ -3,7 +3,9 @@ Django 3.0.2 Website Word Counting App
 Contributors:
 
 Ujjwal Partap Singh
+</br>
 Elias Logan
+</br>
 Wesley Ruede
 
 
@@ -21,8 +23,14 @@ Run the command:
 
     source bin/activate
 
+Ensure all dependencies are properly installed which can be found in
+the <h4>requirements.txt</h4> file. This is included with the README.md
+located at the top Quicksite direcotry. The command to install the correct packages:
+
+   pip install -r requirements.txt
+
 Once the virtualenv is successfully activated, you need to run the 
-server which can be foun in the directory:
+server which can be found in the directory:
 
     Quicksite/quicksite/quicksite-project
 
