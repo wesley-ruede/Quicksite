@@ -1,6 +1,6 @@
-Django 3.0.2 Website Word Counting App
+# Django 3.0.2 Website Word Counting App
 
-Contributors:
+## Contributors:
 
 Ujjwal Partap Singh
 </br>
